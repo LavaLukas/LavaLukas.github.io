@@ -1,6 +1,5 @@
-html, body {
-  margin: 0;
-  padding: 0;
+body{
+  background: rgb(87, 63, 173);
 }
 
 canvas {
