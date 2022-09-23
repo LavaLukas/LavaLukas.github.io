@@ -1,1 +1,1 @@
-# InformatikK1.github.io
+# LavaLukas.github.io
